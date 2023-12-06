@@ -1,0 +1,2 @@
+spring.application.name=purchase
+server.port=3332
